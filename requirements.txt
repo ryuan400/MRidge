@@ -1,0 +1,8 @@
+yfinance
+gnews
+transformers
+torch
+pandas
+numpy
+anthropic
+customtkinter
