@@ -4,6 +4,8 @@ MRidge is a desktop chat app that helps you pick S&P 500 stocks. Tell it how muc
 
 After you buy, it remembers your portfolio and can tell you what to keep, sell, or buy more of, suggest swaps, and show price charts. The chat is powered by Claude, so you'll need your own Anthropic API key.
 
+This is a personal passion project I've been doing, so PLEASE don't trust it completely.
+
 ## How it scores stocks
 
 - **Price trend:** is the price above its 20-day average?
