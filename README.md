@@ -61,4 +61,4 @@ Your PC needs to be on, and you need to be logged in, at that time. If it was of
 
 This is a simple short-term strategy and it hasn't been backtested. It's a personal project, not financial advice.
 
-Also, you may need to wait a little bit after you start the desktop version (the 'make_shortcut.bat' one).
+Also, you may need to wait a little bit after you start the desktop version (the make_shortcut.bat one).
